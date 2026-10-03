@@ -1,0 +1,5 @@
+[
+    {"id": "P001", "nombre": "Encebollado", "precio": 4.5, "stock": 30},
+    {"id": "P002", "nombre": "Seco de pollo", "precio": 5.0, "stock": 25},
+    {"id": "P003", "nombre": "Jugo de naranja", "precio": 1.5, "stock": 50}
+]
